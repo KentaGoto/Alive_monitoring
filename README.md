@@ -6,3 +6,6 @@ If the status is 200 and not returned, you will be notified by email.
 
 ## Note  
 Depending on your SMTP server settings, you may not be able to send emails.  
+
+## License
+MIT
