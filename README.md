@@ -9,3 +9,6 @@ Depending on your SMTP server settings, you may not be able to send emails.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
